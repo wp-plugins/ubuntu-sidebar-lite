@@ -13,7 +13,7 @@ A Ubuntu menu for your website shows Ubuntu networking icons in a un-obtrusive w
 
 Ubuntu sidebar lite is made to promote Ubuntu.
 
-This plugin is lite version of [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/) without javascript just php, xhtml and css.
+This plugin is lite version of [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/) without javascript just php, xhtml and css.
 
 Plugin add Ubuntu media buttons to the right side of your website with style and ease.
 
@@ -22,11 +22,12 @@ How Ubuntu sidebar lite looks see at [ZPop](http://zpop.site90.net/blog/ubuntu-s
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-lite-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
-* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
-* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
-* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
-* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
+
+* [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
+* [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
+* [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
 
 == Installation ==
 
