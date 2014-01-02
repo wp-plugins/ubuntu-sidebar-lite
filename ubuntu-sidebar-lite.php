@@ -5,12 +5,12 @@
  */
 /*
 Plugin Name: Ubuntu sidebar lite
-Plugin URI: http://wordpress.org/extend/plugins/ubuntu-sidebar-lite
+Plugin URI: http://wordpress.org/plugins/ubuntu-sidebar-lite
 Description: When activated, this plugin will put a Ubuntu sidebar lite on the right side of your website.
-Author: Zeljko Popivoda
+Author: Željko Popivoda
 Version: 0.1
 License: GPLv2
-Author URI: http://zeljko.popivoda.com
+Author URI: http://popivoda.com
 */
 
 function render_ubuntu_sidebar_lite() {
